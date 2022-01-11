@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<style type="text/css" media="screen, print">
+		<!--
+			body { margin: 30px 50px; font-family: sans-serif; }
+			img { margin: 15px; border: 0px; display: block }
+			pre  { margin: 10px; padding: 10px; background: #EEE; overflow:auto; font-size:small; font-family:monospace; }
+			pre.file { background: white; border: solid 1px black;}
+			.cr  { font-size: 9pt; }
+			.update { font-size: 10px; margin: 30px 0 0 0; border-top: 1px solid #000; }
+			body { counter-reset: q; }
+			h2 { padding-top: .5em; border-top: solid 1px black; }
+			p.question:before { content: counter(q) ". "; counter-increment: q; }
+		-->		
+		</style>
+		<title> Techniques des Logiciels Interactifs </title>
+	</head>
+	<body>
+		<p><a href="../../">~</a> / <a href="../">M1</a> / <a href=".">TLI</a> /</p>
+		
+		<h1>Techniques des Logiciels Interactifs</h1>
+		<p class="cr">© 2010—2018 - <a href="http://iihm.imag.fr/blanch/">Renaud Blanch</a></p>
+		
+		<h2>Cours</h2>
+
+		<ul>
+			<li><a href='./cours/0-introduction.pdf'>introduction</a>.</li>
+			<li><a href='./cours/1-evenements.pdf'>programmation événementielle</a>.</li>
+<!--
+			<li><a href='./cours/2-swing.pdf'>Java/SWING</a>.</li>
+-->
+		</ul>
+		
+		<h2>Travaux pratiques</h2>
+		
+		<ul>
+			<li><a href='./tps/1-grapher-javafx/'>TP 1 - Grapher avec JavaFX</a> : interaction graphique avec JavaFX</li>
+			<li><a href='./tps/2-player-layout/'>TP 2 - Player avec JavaFX</a> : gestion de la géométrie avec JavaFX</li>
+			<li><a href='./tps/3-notification/'>TP 3 -  Tâches longues et interactivité avec JavaFX</a></li>
+		</ul>
+		
+		<h2>Examens</h2>
+		<ul><li><a href="./exams/">archive</a></li></ul>
+		<h2>Lectures</h2>
+		
+		<ul>
+			<li>B. Shneiderman. <a href="./readings/1983-Shneiderman-DirectManipulation.pdf">Direct Manipulation: a Step Beyond Programming Languages</a>. 1983.</li>
+			<li><a href="http://www.guidebookgallery.org/articles/thexeroxstararetrospective">The Xerox Star: A retrospective</a>. 1988.</li>
+			<li>S. Card et al. <a href="./readings/1980-Card-KLM.pdf">the Keystroke Level Model for User Performance Time with Interactive Systems</a>. 1980</li>
+			<li>G. E. Krasner et S. T. Pope. <a href="./readings/1988-Krasner-MVC.pdf">A cookbook for using the model-view controller user interface paradigm in Smalltalk-80</a>. 1988.</li>
+			<li>M. Beaudouin-Lafon. <a href="./readings/2004-BeaudouinLafon-InteractionNotInterfaces.pdf">Designing Interaction, not Interfaces</a>. 2004.</li>
+			<li>S. Conversy et al. <a href="./readings/2014-Conversy-AF447.pdf">L'accident du vol AF447 Rio-Paris, un cas d’étude pour la recherche en IHM</a>. 2014</li>
+		</ul>
+		
+		<p class="update">mise à jour : 5 septembre 2018</p>
+	</body>
+</html>
